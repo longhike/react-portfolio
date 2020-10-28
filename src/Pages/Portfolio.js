@@ -25,8 +25,8 @@ function Portfolio () {
                 <Card class={"portfolio-card"}>
                     <img className={"card-img"} src={"https://dynaimage.cdn.cnn.com/cnn/digital-images/org/6cfc0b88-7523-4f8a-adbe-6deb2a148a34.jpg"} alt={"covid graphic"} />
                     <div className={"card-img-overlay"}>
-                        <h2><a className={'card-_link_light'}href={"https://covid-stat-sad.herokuapp.com/"} rel={"noopener noreferrer"} target={"_blank"}>Get Sad App</a></h2>
-                        <p className={"card-text"} style={{display: "inline-block;"}}><a className={'card-_link_light'} href={"https://github.com/longhike/covid-totals"} rel={"noopener noreferrer"} target={"_blank"}>Github</a></p>
+                        <h2><a className={'card-_link_light'}href={"https://precision19.herokuapp.com/"} rel={"noopener noreferrer"} target={"_blank"}>Precision19</a></h2>
+                        <p className={"card-text"} style={{display: "inline-block;"}}><a className={'card-_link_light'} href={"https://github.com/longhike/covid-data-app"} rel={"noopener noreferrer"} target={"_blank"}>Github</a></p>
                     </div>
                 </ Card>
             </div>
